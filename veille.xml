@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Veille aéronautique</title>
+    <link>https://rochech.github.io/veille-aero/</link>
+    <description>Veille quotidienne : Transavia, Air France, Boeing 737 NG, Airbus et secteur aéronautique.</description>
+    <language>fr</language>
+    <lastBuildDate>Fri, 20 Nov 2026 17:20:00 +0000</lastBuildDate>
+    <atom:link href="https://rochech.github.io/veille-aero/veille.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Veille aéronautique, 20 novembre 2026 (édition d'essai)</title>
+      <link>https://rochech.github.io/veille-aero/#2026-11-20</link>
+      <guid isPermaLink="false">veille-aero-2026-11-20</guid>
+      <pubDate>Fri, 20 Nov 2026 17:20:00 +0000</pubDate>
+      <description><![CDATA[
+<p><strong>Édition d'essai.</strong> Les vraies éditions arrivent chaque matin vers 7h40.</p>
+<h3>Construction aéronautique</h3>
+<ul>
+<li>Boeing a livré 49 avions en octobre 2026 et enregistré 165 commandes sans annulation, dont 140 737 MAX pour Avolon. <a href="https://www.air-journal.fr/?p=278778">Air Journal</a></li>
+<li>Airbus a livré 621 avions sur dix mois (+6,2 %) et doit tenir environ 125 livraisons par mois en novembre et décembre pour son objectif d'environ 870. <a href="https://fr.businessam.be/?p=296198">Business AM</a></li>
+</ul>
+<h3>Sécurité</h3>
+<ul>
+<li>L'EASA a émis le 12 novembre la consigne 2026-0217 sur le stabilisateur horizontal des ATR 42/72, effective le 26 novembre. <a href="https://aerocorner.com/news/easa-atr-42-72-horizontal-stabilizer-inspection-ad/">AeroCorner</a></li>
+</ul>
+]]></description>
+    </item>
+  </channel>
+</rss>
