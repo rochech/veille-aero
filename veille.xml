@@ -5,23 +5,43 @@
     <link>https://rochech.github.io/veille-aero/</link>
     <description>Veille quotidienne : Transavia, Air France, Boeing 737 NG, Airbus et secteur aéronautique.</description>
     <language>fr</language>
-    <lastBuildDate>Fri, 20 Nov 2026 17:20:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 17:40:00 +0000</lastBuildDate>
     <atom:link href="https://rochech.github.io/veille-aero/veille.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Veille aéronautique, 20 novembre 2026 (édition d'essai)</title>
+      <title>Veille aéronautique, 20 novembre 2026</title>
       <link>https://rochech.github.io/veille-aero/#2026-11-20</link>
       <guid isPermaLink="false">veille-aero-2026-11-20</guid>
-      <pubDate>Fri, 20 Nov 2026 17:20:00 +0000</pubDate>
+      <pubDate>Fri, 20 Nov 2026 17:40:00 +0000</pubDate>
       <description><![CDATA[
-<p><strong>Édition d'essai.</strong> Les vraies éditions arrivent chaque matin vers 7h40.</p>
-<h3>Construction aéronautique</h3>
+<p><strong>À retenir (fenêtre de 72 h)</strong></p>
 <ul>
-<li>Boeing a livré 49 avions en octobre 2026 et enregistré 165 commandes sans annulation, dont 140 737 MAX pour Avolon. <a href="https://www.air-journal.fr/?p=278778">Air Journal</a></li>
-<li>Airbus a livré 621 avions sur dix mois (+6,2 %) et doit tenir environ 125 livraisons par mois en novembre et décembre pour son objectif d'environ 870. <a href="https://fr.businessam.be/?p=296198">Business AM</a></li>
+<li>La FAA impose des inspections sur environ 300 Boeing 737 NG américains (autothrottle).</li>
+<li>L'EASA étend à 24 appareils l'inspection urgente des longerons d'aile de l'A380.</li>
+<li>Middle East Airlines reçoit son premier A321XLR.</li>
 </ul>
-<h3>Sécurité</h3>
+<h3>Transavia</h3>
 <ul>
-<li>L'EASA a émis le 12 novembre la consigne 2026-0217 sur le stabilisateur horizontal des ATR 42/72, effective le 26 novembre. <a href="https://aerocorner.com/news/easa-atr-42-72-horizontal-stabilizer-inspection-ad/">AeroCorner</a></li>
+<li>Rien de notable sur 72 h.</li>
+</ul>
+<h3>Air France / Air France-KLM</h3>
+<ul>
+<li>Aucun préavis national de grève dans l'aérien pour ce vendredi 20 novembre, et aucune demande de réduction de programme de la DGAC relevée. <a href="https://www.actu-alt-plus.com/idees-solutions/greve-bus-taxis-aeroports-20-novembre-2026/43456/">Actu Alt Plus</a></li>
+<li>Rien d'autre de notable sur 72 h (dernier fait marquant : résultats du 3e trimestre, publiés le 5 novembre). <a href="https://www.tourmag.com/Air-France-KLM-benefice-en-hausse-et-suppression-de-postes-chez-KLM_a133930.html">TourMaG</a></li>
+</ul>
+<h3>Boeing 737 NG</h3>
+<ul>
+<li>La FAA publie ce 20 novembre la consigne AD 2026-23-04 pour les 737-600, -700, -800 et -900 (le MAX n'est pas concerné). Un défaut de données de position des spoilers peut empêcher le moniteur de poussée de l'autothrottle de s'activer en cas d'écart important entre moteurs. Environ 300 appareils immatriculés aux États-Unis, effective le 7 décembre. <a href="https://www.federalregister.gov/documents/2026/11/20/2026-23697/airworthiness-directives-the-boeing-company-airplanes">Federal Register</a> · <a href="https://www.aerotime.aero/articles/faa-boeing-737ng-autothrottle-loss-of-control-checks">AeroTime</a></li>
+</ul>
+<h3>Airbus</h3>
+<ul>
+<li>L'EASA a émis le 18 novembre une consigne d'urgence (2026-0216) qui étend l'inspection du longeron central des ailes de l'A380 à 24 appareils, échéance fin janvier 2027. <a href="https://terminair.com/brief/2026-11-19">Terminair</a></li>
+<li>Middle East Airlines a reçu le 17 novembre à Hambourg le premier de ses cinq A321XLR (160 places, 22 sièges-lits en classe affaires). <a href="https://www.air-journal.fr/?p=278920">Air Journal</a></li>
+<li>LATAM a dévoilé le 18 novembre la cabine de ses futurs A321XLR, attendus à partir de mars. <a href="https://www.air-journal.fr/2026-11-19-des-suites-avec-porte-dans-un-monocouloir-latam-devoile-son-airbus-a321xlr-5279199.html">Air Journal</a></li>
+</ul>
+<h3>Autres actualités du secteur</h3>
+<ul>
+<li>Le français Beyond Aero (avion d'affaires électrique à pile à combustible hydrogène, service visé début des années 2030) a présenté le 18 novembre AeroAI, un système d'IA pour accélérer la documentation de certification. <a href="https://corporatejetinvestor.com/news/beyond-aero-using-agentic-ai-to-speed-aircraft-development">Corporate Jet Investor</a></li>
+<li>Airbus et MTU restent sur la voie d'un rapprochement sur les piles à combustible l'an prochain (titre FlightGlobal du 19 novembre, article sous abonnement). <a href="https://www.flightglobal.com/category/aerospace/">FlightGlobal</a></li>
 </ul>
 ]]></description>
     </item>
