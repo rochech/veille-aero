@@ -5,8 +5,42 @@
     <link>https://rochech.github.io/veille-aero/</link>
     <description>Veille quotidienne : Transavia, Air France, Boeing 737 NG, Airbus et secteur aéronautique.</description>
     <language>fr</language>
-    <lastBuildDate>Fri, 20 Nov 2026 17:25:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 09:59:00 +0000</lastBuildDate>
     <atom:link href="https://rochech.github.io/veille-aero/veille.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Veille aéronautique, 21 novembre 2026</title>
+      <link>https://rochech.github.io/veille-aero/#2026-11-21</link>
+      <guid isPermaLink="false">veille-aero-2026-11-21</guid>
+      <pubDate>Sat, 21 Nov 2026 09:59:00 +0000</pubDate>
+      <description><![CDATA[
+<p><strong>À retenir aujourd'hui</strong></p>
+<p>La FAA impose des tests répétitifs sur environ 300 Boeing 737 NG américains. Airbus doit livrer 249 avions en deux mois pour tenir ses 870 de l'année. KLM rattache l'essentiel de sa maintenance à Air France-KLM.</p>
+<h3>Transavia</h3>
+<ul>
+<li>Rien de notable.</li>
+</ul>
+<h3>Air France / Air France-KLM</h3>
+<ul>
+<li>KLM réorganise sa division maintenance : deux de ses trois composantes passeront sous la direction d'Air France-KLM, donc pilotées depuis Paris, le conseil d'entreprise devant encore se prononcer. Le syndicat NVLT craint un éloignement mais salue une meilleure coordination des achats. <a href="https://luchtvaartnieuws.nl/nieuws/categorie/18/technologie/nvlt-bezorgd-over-gevolgen-herstructurering-air-france-klm-lijntjes-worden-langer">NVLT bezorgd over gevolgen herstructurering Air France-KLM</a></li>
+<li>Le premier A350 de KLM a assuré son vol commercial inaugural Amsterdam–Toronto, selon un récapitulatif du 20 novembre. <a href="https://flyinginireland.com/2026/11/daily-aviation-brief-20-11-2026/">Daily Aviation Brief 20/11/2026</a></li>
+</ul>
+<h3>Boeing 737 NG</h3>
+<ul>
+<li>Consigne FAA AD 2026-23-04 : tests répétitifs des ailerons (système de commandes de vol numérique) sur environ 300 737-600/-700/-800/-900 américains. Des données de spoilers défaillantes pourraient empêcher la déconnexion de l'autothrottle en cas de forte dissymétrie de poussée. Publication le 20 novembre, application 15 jours plus tard. <a href="https://www.airdatanews.com/faa-orders-repeated-boeing-737-ng-checks-over-autothrottle-safety-concern/">FAA orders repeated Boeing 737NG checks</a></li>
+</ul>
+<h3>Airbus</h3>
+<ul>
+<li>À fin octobre, 621 livraisons : il en faut 249 en novembre-décembre pour atteindre environ 870. Lars Wagner vise des livraisons lissées par trimestre en 2027, puis par mois en 2028. <a href="https://ad-hoc-news.de/boerse/news/unternehmensnachrichten/airbus-maps-monthly-delivery-cadence-for-2028-while-buyback-and-iris-deal-advance/70540223">Airbus Maps Monthly Delivery Cadence</a></li>
+<li>Les versions allongées des A220 et A350 sont attendues vers 2033, avec des décisions de lancement à prendre d'ici environ douze mois. <a href="https://www.journal-aviation.com/actualites-industrie-aeronautique/avions-commerciaux/la-fenetre-de-lancements-des-airbus-a220-et-a350-allonges-se-precise-20261120.html">La fenêtre de lancement des A220 et A350 allongés se précise</a></li>
+</ul>
+<h3>Autres actualités du secteur</h3>
+<ul>
+<li>Lufthansa : environ 1 000 postes menacés dans ses hubs de Francfort et Munich. <a href="https://www.air-journal.fr/">Air Journal</a></li>
+<li>Airbus et MTU maintiennent leur coentreprise de piles à combustible à hydrogène pour début 2027 (Airbus majoritaire, autorisations réglementaires attendues). <a href="https://ad-hoc-news.de/boerse/news/corporate-news/mtu-aktie-airbus-joint-venture-bleibt-fuer-2027-geplant/70541715">MTU-Aktie: Airbus-Joint-Venture bleibt für 2027 geplant</a></li>
+<li>airBaltic aurait de la trésorerie pour un mois seulement si elle n'obtient pas les fonds restants. <a href="https://www.flightglobal.com/">FlightGlobal</a></li>
+</ul>
+]]></description>
+    </item>
     <item>
       <title>Veille aéronautique, 20 novembre 2026</title>
       <link>https://rochech.github.io/veille-aero/#2026-11-20</link>
