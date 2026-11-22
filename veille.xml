@@ -5,8 +5,39 @@
     <link>https://rochech.github.io/veille-aero/</link>
     <description>Veille quotidienne : Transavia, Air France, Boeing 737 NG, Airbus et secteur aéronautique.</description>
     <language>fr</language>
-    <lastBuildDate>Sat, 21 Nov 2026 09:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 06:43:04 +0000</lastBuildDate>
     <atom:link href="https://rochech.github.io/veille-aero/veille.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Veille aéronautique, 22 novembre 2026</title>
+      <link>https://rochech.github.io/veille-aero/#2026-11-22</link>
+      <guid isPermaLink="false">veille-aero-2026-11-22</guid>
+      <pubDate>Sun, 22 Nov 2026 06:43:04 +0000</pubDate>
+      <description><![CDATA[
+<p><strong>À retenir aujourd'hui</strong></p>
+<p>KLM remplace 20 A320neo par des Embraer E195-E2 ; une partie des Airbus ira à Transavia à partir de 2027. Transavia Pays-Bas poursuit le retrait de ses 737-800.</p>
+<h3>Transavia</h3>
+<ul>
+<li>Transavia récupérera des A320neo initialement destinés à KLM à partir de 2027 (neuf pour la France, deux pour les Pays-Bas). Les deux filiales sont passées de 139 à 151 avions en un an, surtout en France, mais affichent un résultat opérationnel de -42 millions sur neuf mois. <a href="https://www.luchtvaartnieuws.nl/nieuws/categorie/2/airlines/klm-wordt-kleiner-en-duurder-transavia-juist-groter-in-frankrijk-en-goedkoper">Luchtvaartnieuws (20/11)</a></li>
+</ul>
+<h3>Air France / Air France-KLM</h3>
+<ul>
+<li>KLM convertit une commande de 20 A320neo (jusqu'à 180 sièges) en 20 Embraer E195-E2 (jusqu'à 136 sièges) ; les Airbus restent dans le groupe et sont réaffectés à Transavia. <a href="https://www.luchtvaartnieuws.nl/nieuws/categorie/2/airlines/klm-wordt-kleiner-en-duurder-transavia-juist-groter-in-frankrijk-en-goedkoper">Luchtvaartnieuws (20/11)</a></li>
+</ul>
+<h3>Boeing 737 NG</h3>
+<ul>
+<li>Transavia Pays-Bas a retiré le 737-800 PH-HZG (vol Schiphol–Bucarest, 18 novembre), quatrième départ de l'année après PH-HZL, PH-HBK et PH-HZO. Selon la compagnie, les appareils sont rendus aux loueurs, replacés chez d'autres exploitants ou démontés pour pièces ; elle compte désormais 20 A321neo. <a href="https://www.luchtvaartnieuws.nl/nieuws/categorie/2/airlines/uitfasering-boeing-737-bij-transavia-in-volle-gang-toestel-al-na-drie-jaar-weg">Luchtvaartnieuws (18/11)</a></li>
+</ul>
+<h3>Airbus</h3>
+<ul>
+<li>Rien de notable en dehors de la réaffectation des A320neo de KLM (voir ci-dessus).</li>
+</ul>
+<h3>Autres actualités du secteur</h3>
+<ul>
+<li>Rien de notable sur 48 h.</li>
+</ul>
+<p><strong>Sources :</strong> <a href="https://www.luchtvaartnieuws.nl/nieuws/categorie/2/airlines/klm-wordt-kleiner-en-duurder-transavia-juist-groter-in-frankrijk-en-goedkoper">Luchtvaartnieuws, KLM/Transavia</a> · <a href="https://www.luchtvaartnieuws.nl/nieuws/categorie/2/airlines/uitfasering-boeing-737-bij-transavia-in-volle-gang-toestel-al-na-drie-jaar-weg">Luchtvaartnieuws, retrait 737</a></p>
+]]></description>
+    </item>
     <item>
       <title>Veille aéronautique, 21 novembre 2026</title>
       <link>https://rochech.github.io/veille-aero/#2026-11-21</link>
