@@ -5,8 +5,32 @@
     <link>https://rochech.github.io/veille-aero/</link>
     <description>Veille quotidienne : Transavia, Air France, Boeing 737 NG, Airbus et secteur aéronautique.</description>
     <language>fr</language>
-    <lastBuildDate>Sun, 22 Nov 2026 06:43:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 06:43:20 +0000</lastBuildDate>
     <atom:link href="https://rochech.github.io/veille-aero/veille.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Veille aéronautique, 23 novembre 2026</title>
+      <link>https://rochech.github.io/veille-aero/#2026-11-23</link>
+      <guid isPermaLink="false">veille-aero-2026-11-23</guid>
+      <pubDate>Mon, 23 Nov 2026 06:43:20 +0000</pubDate>
+      <description><![CDATA[
+<p><strong>À retenir aujourd'hui</strong></p>
+<p>Journée calme sur les sujets prioritaires. Emmanuel Macron est attendu à Toulouse avec un soutien annoncé de 350 M€ à la recherche aéronautique civile ; grève du contrôle aérien en Belgique ce lundi.</p>
+<h3>Transavia</h3>
+<p>Rien de notable.</p>
+<h3>Air France / Air France-KLM</h3>
+<p>Rien de notable.</p>
+<h3>Boeing 737 NG</h3>
+<p>Rien de notable (la consigne FAA 2026-23-04 sur les tests BITE des ailerons, publiée le 20 novembre, a été traitée dans l'édition du 21).</p>
+<h3>Airbus</h3>
+<p>Rien de notable (l'extension de la consigne EASA A380 à 24 appareils a été traitée dans l'édition du 21).</p>
+<h3>Autres actualités du secteur</h3>
+<ul>
+<li>Emmanuel Macron se rend à Toulouse ce 23 novembre ; selon Le Figaro, il doit y annoncer 350 M€ de soutien public à la recherche aéronautique civile pour 2026, via le programme du CORAC. Chiffre encore à confirmer par une source officielle. <a href="https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/airbus-braces-for-macron-s-350-million-research-boost-as-buyback-and-order-momentum-build/70545408">Ad-hoc-news, 23/11</a></li>
+<li>Belgique : skeyes interrompt le contrôle aérien de 7 h à 21 h ce lundi 23 novembre (grève nationale) ; la majorité des vols à Bruxelles est annulée, Charleroi, Liège, Anvers et Ostende sont aussi touchés. <a href="https://aerocorner.com/news/brussels-airport-national-strike-november-23-flights-cancelled/">AeroCorner, 21/11</a></li>
+</ul>
+<p><strong>Sources :</strong> <a href="https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/airbus-braces-for-macron-s-350-million-research-boost-as-buyback-and-order-momentum-build/70545408">Ad-hoc-news, Macron à Toulouse</a> · <a href="https://aerocorner.com/news/brussels-airport-national-strike-november-23-flights-cancelled/">AeroCorner, grève skeyes</a></p>
+]]></description>
+    </item>
     <item>
       <title>Veille aéronautique, 22 novembre 2026</title>
       <link>https://rochech.github.io/veille-aero/#2026-11-22</link>
