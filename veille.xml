@@ -5,8 +5,30 @@
     <link>https://rochech.github.io/veille-aero/</link>
     <description>Veille quotidienne : Transavia, Air France, Boeing 737 NG, Airbus et secteur aéronautique.</description>
     <language>fr</language>
-    <lastBuildDate>Fri, 27 Nov 2026 06:42:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 06:42:03 +0000</lastBuildDate>
     <atom:link href="https://rochech.github.io/veille-aero/veille.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Veille aéronautique, 28 novembre 2026</title>
+      <link>https://rochech.github.io/veille-aero/#2026-11-28</link>
+      <guid isPermaLink="false">veille-aero-2026-11-28</guid>
+      <pubDate>Sat, 28 Nov 2026 06:42:03 +0000</pubDate>
+      <description><![CDATA[
+<h2>Veille aéronautique, 28 novembre 2026</h2>
+<h3>À retenir aujourd'hui</h3>
+<p>Journée très calme sur les sujets prioritaires. Seul fait vérifié : un 737-800 de Transavia France a été dérouté deux mercredis de suite de Lyon–Agadir vers Marrakech. Le nouveau nom de la holding Air France-KLM est toujours attendu le 3 décembre.</p>
+<h3>Transavia</h3>
+<ul><li>Le vol Lyon–Agadir TO3208, assuré par le 737-800 F-HUYM, s'est posé à Marrakech le mercredi 25 novembre avec environ 1 h 40 de retard. Le même avion avait subi le même déroutement le 18 novembre ; la cause n'a pas été communiquée. <a href="https://www.bladi.net/deux-mercredis-suite-avion-transavia-atterrit-marrakech-lieu-agadir,125228.html">Deux mercredis de suite, le même avion de Transavia atterrit à Marrakech (Bladi, 26/11)</a></li></ul>
+<h3>Air France / Air France-KLM</h3>
+<p>Rien de notable (l'annonce du nouveau nom de la holding reste prévue le 3 décembre).</p>
+<h3>Boeing 737 NG</h3>
+<p>Rien de notable (voir le déroutement du 737-800 de Transavia ci-dessus). Les consignes FAA publiées au Federal Register les 20 et 24 novembre n'ont pas pu être consultées ; elles ne sont pas reprises ici.</p>
+<h3>Airbus</h3>
+<p>Rien de notable.</p>
+<h3>Autres actualités du secteur</h3>
+<p>Rien de notable confirmé dans les dernières 48 h.</p>
+<p><strong>Sources :</strong> <a href="https://www.bladi.net/deux-mercredis-suite-avion-transavia-atterrit-marrakech-lieu-agadir,125228.html">Bladi</a></p>
+]]></description>
+    </item>
     <item>
       <title>Veille aéronautique, 27 novembre 2026</title>
       <link>https://rochech.github.io/veille-aero/#2026-11-27</link>
